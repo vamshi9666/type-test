@@ -1,0 +1,17 @@
+{
+  "name": "type-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tspc  --project tsconfig.json "
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-patch": "^3.1.2",
+    "ts-runtime-checks": "^0.5.0",
+    "typescript": "^5.4.2"
+  }
+}
